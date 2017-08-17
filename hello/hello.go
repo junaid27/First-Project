@@ -4,8 +4,6 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("hello world11111")
-	fmt.Println("hellso world11111")
-	fmt.Println("ededwdedd")
-	fmt.Println("wsqwd")
+	fmt.Println(42)
+	fmt.Printf("%d - \t %b - %#X", 42, 123456789, 420000000)
 }
